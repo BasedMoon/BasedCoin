@@ -1,20 +1,20 @@
 Based Moon Core integration
 =====================================
 
-[![Build Status](https://travis-ci.org/Based-Moon-project/litecoin.svg?branch=master)](https://travis-ci.org/Based-Moon-project/litecoin)
+[![Build Status](https://travis-ci.org/Based-Moon-project/Based-Moon.svg?branch=master)](https://travis-ci.org/Based-Moon-project/basedmoon)
 
 
 What is Based Moon?
 ----------------
 
 Based Moon is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
+anyone, anywhere in the world. Based Moon uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
+out collectively by the network. Based Moon is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+the Based Moon Core software, see [https://Based-Moon.org](https://Based-Moon.org).
 
 License
 -------
@@ -25,7 +25,7 @@ information or see https://opensource.org/licenses/MIT.
 Our Progress
 -------------------
 
-The https://github.com/litecoin-project/gui repository is used exclusively for the
+The https://github.com-Based-Moon-project/gui repository is used exclusively for the
 development of the GUI. Its master branch is identical in all monotree
 repositories. Release branches and tags do not exist, so please do not fork
 that repository unless it is for development reasons.
@@ -33,7 +33,7 @@ that repository unless it is for development reasons.
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/based-moon-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
